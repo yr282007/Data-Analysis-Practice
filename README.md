@@ -1,4 +1,4 @@
-# Amazon-Data-Analysis-Practice
+# Data-Analysis-Practice
 This project was created to practice:
 - Pandas
 - NumPy
